@@ -54,4 +54,4 @@ The program includes four menu options:
 
 ## Screencast
 
-Screencast video link: ADD VIDEO LINK HERE
+Screencast video link: https://www.loom.com/share/fab51d9b94e94eee9dccb9288d8131c6
